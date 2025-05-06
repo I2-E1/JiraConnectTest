@@ -1,6 +1,10 @@
 package com.service.model;
 
+import com.edu.bank.Account;
+
 public class Music {
 	private int price;
-	// 예시
+	public Account account;
+	public int isbn; 
+	
 }
